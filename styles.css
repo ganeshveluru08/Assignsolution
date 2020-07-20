@@ -11,7 +11,7 @@ h1
 {
 	margin-bottom:15px;
 	text-align:center;
-	font-size:1.75em;
+	
 }
 .c1 span{
 	background-color:#c25bb9;
@@ -28,14 +28,14 @@ span
 	text-align:right;
 	border:1px solid black;
 	float:right;
-	font-size:1.25em;
+	font-size:20px;
     border-top-right-radius:5px;
 	
 }
 p{
 	padding-left:8px;
 	padding-right:8px;
-	font-size:1em;
+	
 }
 .first div{
 	border:1px solid black;
